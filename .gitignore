@@ -1,0 +1,12 @@
+.turbo
+node_modules
+package-lock.json
+
+apps/backend/node_modules
+apps/frontend/node_modules
+
+apps/backend/.turbo
+apps/frontend/.turbo
+
+apps/backend/dist
+apps/frontend/dist
